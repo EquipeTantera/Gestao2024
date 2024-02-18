@@ -27,7 +27,7 @@ Quem é a Equipe Tantera? Como funciona a gestão de projetos por aqui?
 Nossas 6 áreas se complementam da seguinte maneira:
 
 <div align="center">
-  <sub>Figura 1: Áreas - Atlética TAntera</sub>
+  <sub>Figura 1: Áreas - Atlética Tantera</sub>
   <img src="./imagens/Areas.png" width="100%">
   <sup>Fonte: Os autores (2024)</sup>
 </div>
@@ -35,7 +35,7 @@ Nossas 6 áreas se complementam da seguinte maneira:
 Sabemos que deve parecer estranho a presidência entrar no mesmo nível de organização que outras diretorias, mas isso acontece por que presamos por uma Governança Horizontal, onde todas as áreas tem a mesma importância e se ajudam entre si. 
 
 <div align="center">
-  <sub>Figura 1: Áreas - Atlética TAntera</sub>
+  <sub>Figura 2: Governança - Atlética Tntera</sub>
   <img src="./imagens/Governanca.png" width="100%">
   <sup>Fonte: Os autores (2024)</sup>
 </div>
