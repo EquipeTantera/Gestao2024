@@ -28,7 +28,7 @@ Nossas 6 áreas se complementam da seguinte maneira:
 
 <div align="center">
   <sub>Figura 1: Áreas - Atlética TAntera</sub>
-  <img src="../imagens/Areas.png" width="100%">
+  <img src="./imagens/Areas.png" width="100%">
   <sup>Fonte: Os autores (2024)</sup>
 </div>
 
@@ -36,7 +36,7 @@ Sabemos que deve parecer estranho a presidência entrar no mesmo nível de organ
 
 <div align="center">
   <sub>Figura 1: Áreas - Atlética TAntera</sub>
-  <img src="../imagens/Governanca.png" width="100%">
+  <img src="./imagens/Governanca.png" width="100%">
   <sup>Fonte: Os autores (2024)</sup>
 </div>
 
@@ -67,7 +67,7 @@ Faz inteligente e vem pra Tantera!
 
 **Se increvam no processo seletivo e façam parte do legado!**
 
-- Equipe Tantera 24'.
+Equipe Tantera 24'.
 
 
 
