@@ -52,7 +52,7 @@ Os projetos fazem referência a este repositório, é por meio deles que sabemos
 As *issues* representam as entregas de cada divisão de projeto, são definidas em conjunto entre as diretorias e a presidência.
 
 ### *Labels*
-As etiquetas fazem parte da organização geral e pmitem saber qual área está responsável por qual parte do projeto.
+As etiquetas fazem parte da organização geral e permitem saber qual área está responsável por qual parte do projeto.
 
 ### Milestone
 Essas são as famosas "sprints", mas diferente de um projeto no inteli, elas são flexíveis e variam de projeto para projeto.
